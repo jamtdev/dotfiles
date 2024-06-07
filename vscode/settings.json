@@ -1,0 +1,10 @@
+{
+  "editor.fontFamily": "JetBrainsMono NFM",
+  "editor.fontSize": 16,
+  "workbench.editor.enablePreview": false,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.sideBar.location": "right",
+  "terminal.integrated.fontSize": 16,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}

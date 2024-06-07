@@ -1,0 +1,4 @@
+--target=~/Library/Application\ Support/Code/User
+--no-folding
+--ignore=.stowrc
+--ignore=.DS_Store

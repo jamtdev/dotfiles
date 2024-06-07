@@ -1,0 +1,15 @@
+[env]
+term = "alacritty-direct"
+
+[shell]
+program = "wsl"
+args = ["~", "tmux attach || tmux"]
+
+[window]
+startup_mode = "Maximized"
+
+[font]
+size = 16
+
+[font.normal]
+family = "JetBrainsMono NFM"
