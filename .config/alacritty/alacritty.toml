@@ -6,7 +6,7 @@ program = "/bin/zsh"
 args = ["-l", "-c", "tmux attach || tmux"]
 
 [window]
-startup_mode = "Fullscreen"
+startup_mode = "Maximized"
 
 [font]
 size = 16
